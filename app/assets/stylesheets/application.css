@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+
+#search-btn {
+color: blue;
+width: 200px;
+height: 150px;
+background-color: red;
+}
